@@ -24,4 +24,4 @@ After installing the above dependencies, you are ready to go!
 You need to import the folder including all the files of this repository as a project in the `intellij idea` IDE and build/run the game yourself 
 
 ## Direct Play
-[Connect-4-JAVA](https://drive.google.com/file/d/1gc8QVBFZV4oP_U74c4dOamjzWfZ6TCCe/view?usp=sharing) (requires **Java 8** only)
+[Connect-4-JAVA](https://github.com/techyhoney/Java-Connect-Four-Game/releases/download/v1/connectfour.jar) (requires **Java 8** only)
